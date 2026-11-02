@@ -1,0 +1,17 @@
+CORRECCIÓN — PRÁCTICA 0-A: HELLO WORLD
+
+Resultado: Todo OK 😀
+
+Has completado correctamente:
+- La creación del repositorio hello-world.
+- La creación de una rama para modificar el README.
+- La presentación personal en el README.
+- La apertura y fusión de una pull request en main.
+
+Como mejora:
+Utiliza descripciones de las pull requests que expliquen
+qué has cambiado y por qué.
+
+Puedes fusionar esta PR para incorporar la corrección.
+Esta práctica está revisada; puedes borrar este repositorio
+cuando quieras.
